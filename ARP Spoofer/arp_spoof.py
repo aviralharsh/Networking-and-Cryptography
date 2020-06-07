@@ -21,6 +21,7 @@ def restore(destination_ip, source_ip):
     scapy.send(packet2, count=4, verbose=False)
 
 sent_packet_count = 0
+#Replace these IPs with your target computer's IP and Gateway's IP:
 target_ip = "10.0.2.15"
 gateway_ip = "10.0.2.1"
 
