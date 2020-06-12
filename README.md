@@ -8,6 +8,8 @@ This repository contains python codes for various Networking and Cryptography co
      3) ARP Spoofer
      
      4) Network Sniffer
+     
+     5) DNS Spoofer
 
 **PLEASE NOTE: The Codes uploaded here are geniune work of the auther and copying or duplication is NOT ALLOWED.**
 
