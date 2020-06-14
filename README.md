@@ -10,6 +10,8 @@ This repository contains python codes for various Networking and Cryptography co
      4) Network Sniffer
      
      5) DNS Spoofer
+     
+     6) Various Malwares 
 
 All the malwares need to be downloaed and executed in the target machine in orer to give expected results. 
 
